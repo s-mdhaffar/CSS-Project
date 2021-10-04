@@ -1,0 +1,23 @@
+.navbar{display: inline;}
+.navbar :hover{text-decoration-color: chartreuse;
+color: cyan;}
+
+h1{color: cadetblue;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+text-align:center;}
+nav{background-color: coral;
+    font-size: xx-large;
+    max-width: 17cm;
+    text-align: center;
+margin:auto;}
+th{color: red;
+text-align: center;}
+td{color: gray;}
+label{color: green;
+font-size: 30px;}
+body{font-family: 'Courrier New', Courier, monospace;}/*i can't find the roboto font*/
+.subt{text-transform: uppercase;}
+.titl{text-transform: capitalize;}
+
